@@ -13,6 +13,13 @@
 /*.pidb
 /*.booproj
 
+[Pp]lugins/
+GoogleMobileAds/
+*.meta
+*.sln
+*.suo
+*.csproj
+
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
 
